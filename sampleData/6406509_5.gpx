@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-07-09 21:08 - ELBE route</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.2002044" lon="14.3308497">
+        <time>2019-07-09T11:47:42.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1997623" lon="14.3316898">
+        <time>2019-07-09T11:52:57.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.200179" lon="14.3309212">
+        <time>2019-07-09T11:53:22.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0867366" lon="14.0185497">
+        <time>2019-07-09T12:47:52.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0017686" lon="13.7441286">
+        <time>2019-07-09T19:04:46.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0016304" lon="13.7441362">
+        <time>2019-07-09T19:05:36.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

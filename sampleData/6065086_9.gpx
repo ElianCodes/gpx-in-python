@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+  <trk>
+    <name>Traversée pont de l’A7 avec Laurent 🛣</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="44.515859" lon="4.782096">
+        <ele>154.2</ele>
+        <time>2019-03-23T21:25:15.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>0</gpxtpx:cad>
+            <gpxtpx:speed>0</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515846" lon="4.782072">
+        <ele>154.2</ele>
+        <time>2019-03-23T21:25:17.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>0</gpxtpx:cad>
+            <gpxtpx:speed>1.2</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515831" lon="4.782064">
+        <ele>154.2</ele>
+        <time>2019-03-23T21:25:19.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>0</gpxtpx:cad>
+            <gpxtpx:speed>1</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515834" lon="4.782137">
+        <ele>154.2</ele>
+        <time>2019-03-23T21:25:23.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>61</gpxtpx:cad>
+            <gpxtpx:speed>1.3</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515817" lon="4.782179">
+        <ele>154.1</ele>
+        <time>2019-03-23T21:25:26.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>60</gpxtpx:cad>
+            <gpxtpx:speed>1.4</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515673" lon="4.782366">
+        <ele>153.4</ele>
+        <time>2019-03-23T21:25:33.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>60</gpxtpx:cad>
+            <gpxtpx:speed>2.6</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515502" lon="4.782559">
+        <ele>152.8</ele>
+        <time>2019-03-23T21:25:38.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>102</gpxtpx:cad>
+            <gpxtpx:speed>3.9</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515461" lon="4.782638">
+        <ele>152.6</ele>
+        <time>2019-03-23T21:25:41.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>102</gpxtpx:cad>
+            <gpxtpx:speed>4</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515382" lon="4.782729">
+        <ele>152.5</ele>
+        <time>2019-03-23T21:25:48.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>102</gpxtpx:cad>
+            <gpxtpx:speed>2.4</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="44.515339" lon="4.782699">
+        <ele>152.4</ele>
+        <time>2019-03-23T21:25:50.000+00:00</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:cad>93</gpxtpx:cad>
+            <gpxtpx:speed>2.4</gpxtpx:speed>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

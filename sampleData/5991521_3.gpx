@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-02-16 22:48 - Havenroute</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.0390304" lon="4.3563266">
+        <time>2019-02-16T21:46:30.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0389028" lon="4.3561667">
+        <time>2019-02-16T21:46:44.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.038716" lon="4.3560983">
+        <time>2019-02-16T21:46:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0386263" lon="4.3558534">
+        <time>2019-02-16T21:47:09.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0386779" lon="4.356095">
+        <time>2019-02-16T21:47:44.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0388808" lon="4.3562071">
+        <time>2019-02-16T21:47:59.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0389301" lon="4.3564673">
+        <time>2019-02-16T21:48:21.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

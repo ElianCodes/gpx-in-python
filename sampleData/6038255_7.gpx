@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-10 21:44 - Mountainbike Asse (Intervalroute 65% offroad)</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.0318664" lon="2.8673592">
+        <time>2019-03-10T20:38:41.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0318738" lon="2.8673667">
+        <time>2019-03-10T20:40:36.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0318581" lon="2.8674007">
+        <time>2019-03-10T20:41:00.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0318487" lon="2.8675777">
+        <time>2019-03-10T20:43:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0318627" lon="2.8673184">
+        <time>2019-03-10T20:44:34.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

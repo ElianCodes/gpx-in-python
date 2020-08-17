@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2018-05-08 12:48 - london to brighton the nice way</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.433050753597" lon="-0.11340589262556">
+        <time>2018-05-08T11:48:06.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.432924354497" lon="-0.11367646045993">
+        <time>2018-05-08T11:48:10.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.432803277905" lon="-0.11392858810733">
+        <time>2018-05-08T11:48:14.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.432671598207" lon="-0.11419328860949">
+        <time>2018-05-08T11:48:19.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.432507732" lon="-0.11446544900547">
+        <time>2018-05-08T11:48:25.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.432345290716" lon="-0.11472352780412">
+        <time>2018-05-08T11:48:30.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.432258287105" lon="-0.11503033103912">
+        <time>2018-05-08T11:48:34.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-10 16:12 - Dag 2: Amsterdam - Brussel (Think-Pink)</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="52.088272342754" lon="4.381482679067">
+        <time>2019-05-10T05:20:08.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.820716254058" lon="4.4248264079732">
+        <time>2019-05-10T11:15:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.588409470639" lon="4.3287057371758">
+        <time>2019-05-10T14:12:25.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.588208965109" lon="4.3285880312785">
+        <time>2019-05-10T14:12:30.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

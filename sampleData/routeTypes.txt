@@ -1,0 +1,47 @@
+id	type	level	lower_limit	upper_limit
+0	"all"	0	1	25000
+1	"bike"	1	1	5000
+2	"walk"	1	5001	10000
+4	"other"	1	15001	25000
+5	"recreational cycling"	2	1	1000
+6	"race cycling"	2	1001	2000
+7	"mountain biken"	2	2001	3000
+8	"recreational walking"	2	5001	6000
+9	"running"	2	6001	7000
+10	"hiking"	2	7001	8000
+11	"rock climbing"	2	8001	8500
+12	"nordic walking"	2	8501	8600
+13	"snowshoe walking"	2	8601	8610
+45	"Motor & Car"	1	10001	15000
+16	"boat"	2	15001	16000
+17	"horse"	2	16001	17000
+18	"public transport"	2	17001	18000
+19	"inline skating"	2	18001	18100
+20	"ice skating"	2	18101	18200
+21	"ski"	2	18201	18400
+22	"standard bike"	3	1	500
+23	"recumbent"	3	501	600
+24	"handbike"	3	601	700
+25	"jogging"	3	6001	6100
+26	"fast running"	3	6101	6200
+32	"canoeing"	3	15001	15100
+33	"sailing"	3	15101	15200
+34	"motorboat"	3	15201	15300
+35	"horse-drawn carriage"	3	16001	16100
+36	"horse riding"	3	16101	16200
+37	"train"	3	17001	17100
+38	"tram"	3	17101	17200
+39	"bus"	3	17201	17300
+40	"subway"	3	17301	17400
+41	"alpine ski"	3	18201	18250
+42	"cross-country skiing"	3	18251	18300
+43	"indoor"	2	18401	18800
+3	"motor"	2	10001	11000
+27	"touring motorcycle"	3	10001	10100
+29	"scooter"	3	10201	10300
+28	"offroad motor"	3	10101	10200
+15	"car"	2	11001	12000
+30	"standard car"	3	11001	11200
+31	"oldtimer"	3	11201	11300
+44	"4x4"	3	11301	11400
+46	"Camper"	3	11401	11500

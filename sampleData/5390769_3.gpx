@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2018-06-04 08:58 - floki1</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="48.223505400673" lon="13.034674894769">
+        <time>2018-06-04T07:26:28.000+00:00</time>
+      </trkpt>
+      <trkpt lat="48.223456573837" lon="13.034295654819">
+        <time>2018-06-04T07:36:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="48.255397402961" lon="13.037741613937">
+        <time>2018-06-04T08:26:15.000+00:00</time>
+      </trkpt>
+      <trkpt lat="48.120888026415" lon="13.161908440107">
+        <time>2018-06-04T18:56:48.000+00:00</time>
+      </trkpt>
+      <trkpt lat="48.120954791129" lon="13.162320312125">
+        <time>2018-06-04T18:56:53.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

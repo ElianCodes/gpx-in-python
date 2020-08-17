@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-13 06:02 - VVT WTC De Wijngaardvrienden 2019</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.9162358" lon="3.8550767">
+        <time>2019-05-13T04:01:57.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9161035" lon="3.8559524">
+        <time>2019-05-13T04:02:07.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9163174" lon="3.8565706">
+        <time>2019-05-13T04:02:16.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9171359" lon="3.8567936">
+        <time>2019-05-13T04:02:26.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

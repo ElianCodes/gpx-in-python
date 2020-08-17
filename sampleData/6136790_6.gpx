@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-04-20 08:35 - Wielrenroute - Zuid-Limburg - Dwars door de Grensstreek</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.77561" lon="5.8454091">
+        <time>2019-04-20T06:30:07.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7756345" lon="5.8455549">
+        <time>2019-04-20T06:31:44.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7756681" lon="5.8452316">
+        <time>2019-04-20T06:31:56.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7756529" lon="5.845354">
+        <time>2019-04-20T06:32:07.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-15 08:51 - Bart naar RGV</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.034328" lon="4.4792762">
+        <time>2019-05-15T05:02:34.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0342548" lon="4.4796706">
+        <time>2019-05-15T05:02:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0342617" lon="4.481">
+        <time>2019-05-15T05:03:04.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0340767" lon="4.4821933">
+        <time>2019-05-15T05:03:14.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2180058" lon="4.4803058">
+        <time>2019-05-15T06:49:46.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

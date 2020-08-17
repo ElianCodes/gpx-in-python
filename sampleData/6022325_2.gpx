@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-03 12:27 - Westerbork-Zwiggelte</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="52.849909828771" lon="6.5980542644838">
+        <time>2019-03-03T09:27:33.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.843132181869" lon="6.5827030037683">
+        <time>2019-03-03T10:09:36.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.849980080911" lon="6.597914613603">
+        <time>2019-03-03T10:09:43.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.860834473652" lon="6.6054584378769">
+        <time>2019-03-03T11:08:07.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.860690868371" lon="6.6052114340543">
+        <time>2019-03-03T11:08:11.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.860851435293" lon="6.6050594571321">
+        <time>2019-03-03T11:08:24.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

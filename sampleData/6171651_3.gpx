@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-02 11:05 - 2 day route</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.977386" lon="7.0014404">
+        <time>2019-05-02T09:03:39.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9773847" lon="7.0014569">
+        <time>2019-05-02T09:03:45.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9773946" lon="7.0014577">
+        <time>2019-05-02T09:04:13.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

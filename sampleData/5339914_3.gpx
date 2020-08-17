@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2018-05-21 12:32 - eerbeek 1</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="52.007804452896" lon="5.9577433643769">
+        <time>2018-05-21T10:31:42.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.007382345034" lon="5.9584499146932">
+        <time>2018-05-21T10:31:46.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.00709769407" lon="5.9590406558419">
+        <time>2018-05-21T10:31:50.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.006903180422" lon="5.9592992159982">
+        <time>2018-05-21T10:31:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.006722441716" lon="5.9594160715391">
+        <time>2018-05-21T10:31:59.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.005676276013" lon="5.9597697717635">
+        <time>2018-05-21T10:32:13.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.005339055446" lon="5.9599858702634">
+        <time>2018-05-21T10:32:17.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
