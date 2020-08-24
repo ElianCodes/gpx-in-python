@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-06-30 19:14 - Rondje Enschede - Winterswijk</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.9800592" lon="6.4277618">
+        <time>2019-06-30T17:13:18.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.980122" lon="6.4274703">
+        <time>2019-06-30T17:13:24.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.9802304" lon="6.4274952">
+        <time>2019-06-30T17:14:13.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.980078" lon="6.4276236">
+        <time>2019-06-30T17:14:19.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-10 12:27 - examen route Alken (praktijk rijbewijs B)</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.885905092629" lon="5.2982333488812">
+        <time>2019-03-10T11:26:51.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.886052478097" lon="5.298016585568">
+        <time>2019-03-10T11:26:56.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.886230723887" lon="5.2977522333059">
+        <time>2019-03-10T11:27:00.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.886398918214" lon="5.2975030643037">
+        <time>2019-03-10T11:27:04.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.886580374579" lon="5.297230523658">
+        <time>2019-03-10T11:27:09.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

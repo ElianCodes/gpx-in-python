@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-07-24 17:33 - Autoroute Schelde- en Waasland Oost-Vlaanderen</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.0068261" lon="3.7219385">
+        <time>2019-07-24T15:31:51.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0031185" lon="3.7198921">
+        <time>2019-07-24T15:32:01.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0067659" lon="3.7259801">
+        <time>2019-07-24T15:32:18.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0150043" lon="3.7229583">
+        <time>2019-07-24T15:32:51.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

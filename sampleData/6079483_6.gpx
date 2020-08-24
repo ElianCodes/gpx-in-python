@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-30 10:14 - De Haan</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.350027498417" lon="3.2934816160877">
+        <time>2019-03-30T09:06:47.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.350126295133" lon="3.2941453276806">
+        <time>2019-03-30T09:06:51.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.35027348258" lon="3.294685909577">
+        <time>2019-03-30T09:06:56.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.350286330699" lon="3.2950892501336">
+        <time>2019-03-30T09:06:59.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.350341393005" lon="3.2954733071191">
+        <time>2019-03-30T09:07:05.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

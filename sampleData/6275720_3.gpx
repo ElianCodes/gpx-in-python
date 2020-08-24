@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-30 15:48 - Viewpoint Posbank touren vanuit Brummen</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.9806178" lon="6.5140926">
+        <time>2019-05-26T17:34:22.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.9807725" lon="6.5139769">
+        <time>2019-05-26T17:34:33.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.088254" lon="6.1566741">
+        <time>2019-05-30T13:42:40.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.0883193" lon="6.1566439">
+        <time>2019-05-30T13:42:55.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.088337" lon="6.1566688">
+        <time>2019-05-30T13:44:23.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.0884358" lon="6.1564617">
+        <time>2019-05-30T13:48:53.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2018-06-13 10:01 - Route 1 Vresse</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="49.866401" lon="4.8858309">
+        <time>2018-06-13T08:00:37.000+00:00</time>
+      </trkpt>
+      <trkpt lat="49.8665144" lon="4.8854985">
+        <time>2018-06-13T08:00:43.000+00:00</time>
+      </trkpt>
+      <trkpt lat="49.8666072" lon="4.8853158">
+        <time>2018-06-13T08:00:51.000+00:00</time>
+      </trkpt>
+      <trkpt lat="49.8665926" lon="4.8850981">
+        <time>2018-06-13T08:01:16.000+00:00</time>
+      </trkpt>
+      <trkpt lat="49.8664964" lon="4.8849467">
+        <time>2018-06-13T08:01:24.000+00:00</time>
+      </trkpt>
+      <trkpt lat="49.866323" lon="4.8846809">
+        <time>2018-06-13T08:01:30.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

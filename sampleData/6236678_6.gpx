@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-23 17:34 - 2019 - Dag 1: Parijs - Villers Saint Paul</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.2258414" lon="2.9130534">
+        <time>2019-05-23T13:29:22.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2007412" lon="2.9141294">
+        <time>2019-05-23T13:51:14.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2008148" lon="2.9143157">
+        <time>2019-05-23T13:51:21.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2008353" lon="2.9143021">
+        <time>2019-05-23T13:51:50.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2007632" lon="2.9141634">
+        <time>2019-05-23T15:33:27.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

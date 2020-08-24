@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-02-05 03:08 - Tour Maria Aalter</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.206318177607" lon="3.2217222036006">
+        <time>2019-02-04T14:07:54.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.082526143576" lon="3.4374727805079">
+        <time>2019-02-05T13:23:58.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.08238935451" lon="3.4374823924749">
+        <time>2019-02-05T13:47:33.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.087174706942" lon="3.359860070529">
+        <time>2019-02-05T14:07:28.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.086845322491" lon="3.3599723733424">
+        <time>2019-02-05T14:07:31.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

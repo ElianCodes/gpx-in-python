@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-07 16:03 - van oostende naar brugge</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.077923" lon="4.719832">
+        <time>2019-03-27T18:27:09.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0779229" lon="4.7198339">
+        <time>2019-03-27T18:27:16.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.0780013" lon="4.7198612">
+        <time>2019-05-07T14:02:44.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

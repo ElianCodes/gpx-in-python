@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-22 01:47 - Smokkelroute: Wandeling - 7.9 km</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.589192753309" lon="4.7840520936862">
+        <time>2019-03-18T10:57:04.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.589177382773" lon="4.7840545948752">
+        <time>2019-03-18T11:01:39.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.589275543364" lon="4.7841890428086">
+        <time>2019-03-22T12:46:32.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.589268067654" lon="4.78451111691">
+        <time>2019-03-22T12:47:03.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

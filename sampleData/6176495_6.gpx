@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-04 14:13 - Roundtrip: 01 May, 2019 10:54</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.7280514" lon="4.15894">
+        <time>2019-05-01T08:54:36.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7278993" lon="4.1589189">
+        <time>2019-05-01T08:55:55.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7279729" lon="4.1589547">
+        <time>2019-05-01T08:56:02.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7279641" lon="4.1589479">
+        <time>2019-05-01T08:56:38.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.7280009" lon="4.1590376">
+        <time>2019-05-04T12:11:10.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

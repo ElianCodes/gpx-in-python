@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-18 22:22 - Go to: 18 May, 2019 22:16</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="45.6922642" lon="9.7215607">
+        <time>2019-05-18T20:18:03.000+00:00</time>
+      </trkpt>
+      <trkpt lat="45.6922636" lon="9.7215675">
+        <time>2019-05-18T20:18:34.000+00:00</time>
+      </trkpt>
+      <trkpt lat="45.692267" lon="9.7215395">
+        <time>2019-05-18T20:20:48.000+00:00</time>
+      </trkpt>
+      <trkpt lat="45.6922527" lon="9.7215587">
+        <time>2019-05-18T20:21:49.000+00:00</time>
+      </trkpt>
+      <trkpt lat="45.6922527" lon="9.7215587">
+        <time>2019-05-18T20:22:03.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2018-05-05 22:31 - Maas-Waal-Betuwe-route</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.587496916812" lon="5.7086266670429">
+        <time>2018-05-05T20:21:28.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.5874338849" lon="5.7090119831317">
+        <time>2018-05-05T20:21:53.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.587467065945" lon="5.7087067471486">
+        <time>2018-05-05T20:24:10.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.587466825779" lon="5.7091140747123">
+        <time>2018-05-05T20:30:43.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

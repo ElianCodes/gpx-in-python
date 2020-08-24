@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-06-10 17:42 - MTB Maldegem ? rode lus Adegem</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.2798845" lon="3.5497966">
+        <time>2019-06-10T15:40:10.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2800191" lon="3.5496947">
+        <time>2019-06-10T15:41:01.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2801877" lon="3.5493658">
+        <time>2019-06-10T15:41:25.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.2802512" lon="3.5491673">
+        <time>2019-06-10T15:41:39.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.280274" lon="3.5489295">
+        <time>2019-06-10T15:42:07.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

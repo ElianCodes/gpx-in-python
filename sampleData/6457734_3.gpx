@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-07-24 10:38 - Routing: Motor - shortest</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.6582572" lon="5.6234534">
+        <time>2019-07-24T08:34:47.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6582694" lon="5.6234367">
+        <time>2019-07-24T08:35:26.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.65829" lon="5.6233797">
+        <time>2019-07-24T08:36:24.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6582794" lon="5.6233606">
+        <time>2019-07-24T08:37:55.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

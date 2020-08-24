@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-02-23 11:10 - Mijnroute regio Genk (afgeleid)</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.1841021" lon="5.1084353">
+        <time>2019-02-21T13:16:46.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1845787" lon="5.1125314">
+        <time>2019-02-21T13:18:02.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1841021" lon="5.1084353">
+        <time>2019-02-21T13:18:12.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1845787" lon="5.1125314">
+        <time>2019-02-21T13:18:22.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1841021" lon="5.1084353">
+        <time>2019-02-21T13:18:32.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

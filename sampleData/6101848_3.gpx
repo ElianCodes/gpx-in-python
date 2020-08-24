@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-04-07 13:55 - Roundtrip: 2019-04-06 17:05:16</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="52.053507808644" lon="6.2711911741703">
+        <time>2019-04-06T15:06:38.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.053321562756" lon="6.2712440639793">
+        <time>2019-04-06T15:08:40.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.053113901105" lon="6.2711383681803">
+        <time>2019-04-06T15:09:25.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.052891319666" lon="6.2711651902704">
+        <time>2019-04-06T15:09:32.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.052693842027" lon="6.27112453804">
+        <time>2019-04-06T15:09:38.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.052539363552" lon="6.2713919207512">
+        <time>2019-04-06T15:10:45.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.053422313232" lon="6.2713247817068">
+        <time>2019-04-07T11:23:57.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.055443241304" lon="6.2907160687884">
+        <time>2019-04-07T11:54:24.000+00:00</time>
+      </trkpt>
+      <trkpt lat="52.053354907652" lon="6.2712428447517">
+        <time>2019-04-07T11:54:30.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

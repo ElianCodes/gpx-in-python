@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-14 12:12 - León - Santiago de Compostela</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="42.60595374693" lon="-6.7564309378734">
+        <time>2019-03-14T11:10:10.000+00:00</time>
+      </trkpt>
+      <trkpt lat="42.605894291354" lon="-6.7566735000229">
+        <time>2019-03-14T11:10:27.000+00:00</time>
+      </trkpt>
+      <trkpt lat="42.605803579842" lon="-6.756900129619">
+        <time>2019-03-14T11:10:45.000+00:00</time>
+      </trkpt>
+      <trkpt lat="42.605729640756" lon="-6.75713068297">
+        <time>2019-03-14T11:11:00.000+00:00</time>
+      </trkpt>
+      <trkpt lat="42.605669940658" lon="-6.7573883701938">
+        <time>2019-03-14T11:11:19.000+00:00</time>
+      </trkpt>
+      <trkpt lat="42.605607796269" lon="-6.757629410281">
+        <time>2019-03-14T11:11:36.000+00:00</time>
+      </trkpt>
+      <trkpt lat="42.605557719578" lon="-6.7578720121449">
+        <time>2019-03-14T11:11:51.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

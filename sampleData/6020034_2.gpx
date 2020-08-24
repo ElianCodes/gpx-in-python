@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-02 11:38 - Aubel-Val Dieu</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.704205674167" lon="5.8113972656483">
+        <time>2019-03-02T10:33:20.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.704306759919" lon="5.8116467949057">
+        <time>2019-03-02T10:33:38.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.704375575344" lon="5.811914512893">
+        <time>2019-03-02T10:33:56.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.704533242569" lon="5.8124061590216">
+        <time>2019-03-02T10:35:42.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.704650627496" lon="5.8129313215667">
+        <time>2019-03-02T10:35:46.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.704893702688" lon="5.8131412044222">
+        <time>2019-03-02T10:35:49.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.704981964129" lon="5.8133952599073">
+        <time>2019-03-02T10:36:04.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

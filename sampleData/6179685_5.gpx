@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-05 15:19 - Uccle-Groenendaal-Hoeilaart-Overijse-Tervuren-Woluwe-Uccle</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.847380901734" lon="4.3722590245347">
+        <time>2019-05-05T12:29:48.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.847188495147" lon="4.3722212221514">
+        <time>2019-05-05T12:29:58.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.847008577595" lon="4.3720895424526">
+        <time>2019-05-05T12:30:10.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.846825977835" lon="4.3719975929748">
+        <time>2019-05-05T12:30:18.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.846628458286" lon="4.371916288514">
+        <time>2019-05-05T12:30:26.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.846409020061" lon="4.3718181364279">
+        <time>2019-05-05T12:30:34.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.812224196362" lon="4.428245002244">
+        <time>2019-05-05T13:16:39.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

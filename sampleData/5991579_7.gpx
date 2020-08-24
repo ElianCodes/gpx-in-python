@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-02-16 23:37 - Roundtrip: 27 Jan, 2019 13:11</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.1704437" lon="2.7748359">
+        <time>2019-01-27T12:12:20.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1704437" lon="2.7748359">
+        <time>2019-01-27T12:14:29.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1704437" lon="2.7748359">
+        <time>2019-01-27T12:15:13.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

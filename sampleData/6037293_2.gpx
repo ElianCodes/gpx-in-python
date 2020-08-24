@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-03-10 14:50 - Mooi Merksplas</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.3953878" lon="4.9485348">
+        <time>2019-03-10T10:08:04.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.3950014" lon="4.9470117">
+        <time>2019-03-10T10:08:10.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.5077158" lon="5.1636098">
+        <time>2019-03-10T13:46:52.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.5076982" lon="5.1635534">
+        <time>2019-03-10T13:47:30.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.5076947" lon="5.1635225">
+        <time>2019-03-10T13:47:38.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.5076945" lon="5.1635526">
+        <time>2019-03-10T13:50:16.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

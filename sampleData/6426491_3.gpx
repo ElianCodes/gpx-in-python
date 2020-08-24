@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-07-16 04:56 - Routing: Motor - nicest</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.3954608" lon="3.5678651">
+        <time>2019-07-15T09:27:41.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.3954065" lon="3.5679782">
+        <time>2019-07-15T09:30:38.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.3893459" lon="3.5588441">
+        <time>2019-07-15T10:11:09.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.3954439" lon="3.5678604">
+        <time>2019-07-15T10:11:16.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1369233" lon="3.6788878">
+        <time>2019-07-16T02:53:20.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1344086" lon="3.6797386">
+        <time>2019-07-16T02:53:28.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1344036" lon="3.6797554">
+        <time>2019-07-16T02:53:43.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.1344022" lon="3.679726">
+        <time>2019-07-16T02:54:02.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

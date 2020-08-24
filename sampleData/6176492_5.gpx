@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-05-04 14:11 - Test</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="51.6612065" lon="4.0904856">
+        <time>2019-05-01T15:56:47.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6612217" lon="4.0904137">
+        <time>2019-05-04T12:03:47.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6610543" lon="4.0906665">
+        <time>2019-05-04T12:03:53.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6611817" lon="4.0905137">
+        <time>2019-05-04T12:04:09.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6612954" lon="4.0903948">
+        <time>2019-05-04T12:05:47.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6611711" lon="4.0911836">
+        <time>2019-05-04T12:08:08.000+00:00</time>
+      </trkpt>
+      <trkpt lat="51.6610301" lon="4.090835">
+        <time>2019-05-04T12:08:16.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

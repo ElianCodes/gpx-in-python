@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>2019-04-06 17:03 - test</name>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="50.9472815" lon="5.2771887">
+        <time>2019-03-23T07:46:26.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9646058" lon="5.2703492">
+        <time>2019-03-23T14:34:58.000+00:00</time>
+      </trkpt>
+      <trkpt lat="50.9646058" lon="5.2703492">
+        <time>2019-03-24T06:55:49.000+00:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
